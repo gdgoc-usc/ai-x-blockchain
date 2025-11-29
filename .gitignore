@@ -205,3 +205,10 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Files
+multi_classification.ipynb
+
+# Directories
+loss_data_vibrate
+loss_data
